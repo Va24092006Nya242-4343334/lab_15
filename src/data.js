@@ -1,38 +1,34 @@
 export const cardsData = [
   {
     id: 1,
-    title: "Лев",
-    description: "Цар звірів, відомий своїм могутнім ревом та граціозністю.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"
+    title: "Лісова прогулянка",
+    description: "Затишний лісовий пейзаж для відпочинку на природі.",
+    image: "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=400&h=300&fit=crop"
   },
   {
     id: 2,
-    title: "Слон",
-    description: "Найбільша наземна тварина з відмінною пам’яттю та потужним хоботом.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+    title: "Місто вночі",
+    description: "Нічне місто з яскравими вогнями та неймовірною атмосферою.",
+    image: "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=400&h=300&fit=crop"
   },
   {
     id: 3,
-    title: "Жираф",
-    description: "Найвища тварина у світі з довгою шиєю для досягнення листя на деревах.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"
+    title: "Гірський пейзаж",
+    description: "Краєвид величних гір під яскравим сонячним небом.",
+    image: "https://images.unsplash.com/photo-1600493304552-106fc07c2883?w=400&h=300&fit=crop"
   },
   {
     id: 4,
-    title: "Зебра",
-    description: "Тварина з унікальним чорно-білим смугастим забарвленням.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGF4bZrSND_aYM_hshoSlC8S93MA_AVnFLw&s"
+    title: "Морський берег",
+    description: "Спокійний пляж із чистою водою та м'яким піском.",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop"
   },
   {
     id: 5,
-    title: "Панда",
-    description: "Бамбуковий ведмідь, що символізує мир та захищений в багатьох країнах.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"
-  },
-  {
-    id: 6,
-    title: "Фламінго",
-    description: "Рожевий птах, що відомий своїми довгими ногами та зігнутою шиєю.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lightmatter_flamingo.jpg"
+    title: "Захід сонця",
+    description: "Романтичний захід сонця, що фарбує небо у дивовижні кольори.",
+    image: "https://images.unsplash.com/photo-1444090542259-0af8fa96557e?w=400&h=300&fit=crop"
   }
 ];
+
+export default cardsData;
